@@ -2,6 +2,7 @@
 
 # I'm a begginer Software Engineer
 
-Languages and Tools
+### Languages and Tools
+![Python](https://img.shields.io/badge/-Python-green)
 
 Follow me
