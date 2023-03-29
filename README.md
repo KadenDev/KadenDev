@@ -4,14 +4,13 @@
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![Requests](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![BS4](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![Selenium](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![OpenAI](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![Aiogram](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![Pyrogram](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![Telethon](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![TelegramBotAPI](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![Requests](https://img.shields.io/badge/-Requests-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![BS4](https://img.shields.io/badge/-BS4-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![Selenium](https://img.shields.io/badge/-Selenium-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![OpenAI](https://img.shields.io/badge/-OpenAI-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![Aiogram](https://img.shields.io/badge/-Aiogram-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![Pyrogram](https://img.shields.io/badge/-Pyrogram-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![Telethon](https://img.shields.io/badge/-Telethon-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![TelegramBotAPI](https://img.shields.io/badge/-TelegramBotAPI-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
 
 Follow me
