@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/KadenDev/KadenDev/blob/main/assets/banner.gif)](https://github.com/KadenDev/)
 
 About me
 
