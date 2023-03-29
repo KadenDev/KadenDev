@@ -9,7 +9,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-405e55?style=for-the-badge&logo=openai&logoColor=ffffff)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![Pyrogram](https://img.shields.io/badge/-Pyrogram-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
-![Telethon](https://img.shields.io/badge/-Telethon-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
+![Pyrogram](https://img.shields.io/badge/-Pyrogram-405e55?style=for-the-badge&logo=telegram&logoColor=ffffff)
+![Telethon](https://img.shields.io/badge/-Telethon-405e55?style=for-the-badge&logo=telegram&logoColor=ffffff)
 
 Follow me
