@@ -3,6 +3,6 @@
 # I'm a begginer Software Engineer
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=appveyor)
+![Python](https://img.shields.io/badge/-Python-green?style=for-the-badge&logo=python)
 
 Follow me
