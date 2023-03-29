@@ -10,6 +10,5 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-405e55?style=for-the-badge&logo=openai&logoColor=ffffff)
 ![Aiogram](https://img.shields.io/badge/-Aiogram-50786c?style=for-the-badge&logo=telegram&logoColor=ffffff)
 ![Pyrogram](https://img.shields.io/badge/-Pyrogram-405e55?style=for-the-badge&logo=telegram&logoColor=ffffff)
-![Telethon](https://img.shields.io/badge/-Telethon-50786c?style=for-the-badge&logo=telegram&logoColor=ffffff)
 
 Follow me
