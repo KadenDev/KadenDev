@@ -11,4 +11,4 @@
 ![Aiogram](https://img.shields.io/badge/-Aiogram-50786c?style=for-the-badge&logo=telegram&logoColor=ffffff)
 ![Pyrogram](https://img.shields.io/badge/-Pyrogram-405e55?style=for-the-badge&logo=telegram&logoColor=ffffff)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaden&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KadenDev&show_icons=true&theme=dark)
