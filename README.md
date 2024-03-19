@@ -1,6 +1,6 @@
 [![Header](https://github.com/KadenDev/KadenDev/blob/main/assets/banner.gif)](https://github.com/KadenDev/)
 
-## Hello! I am Andrew 
+## Hello! I am Andrew 🇺🇦
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-405e55?style=for-the-badge&logo=python&logoColor=ffffff)
